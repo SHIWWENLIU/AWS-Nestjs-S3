@@ -1,10 +1,9 @@
-import Image from "next/image";
 
 export default function Home() {
   return (
     <main className="text-center mt-10">
-      <h1>Threads</h1>
-      <p>Threads is a clone of x.com</p>
+      <h1>social platform</h1>
+      <p>This is a practice</p>
     </main>
   )
 }
